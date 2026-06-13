@@ -1,7 +1,7 @@
 {
-  "name": "4-4-6-2 呼吸訓練",
+  "name": "5-5 呼吸訓練",
   "short_name": "呼吸訓練",
-  "description": "森林風格的 4-4-6-2 呼吸訓練 PWA。",
+  "description": "5-5 呼吸訓練 PWA，提供個人練習追蹤、中文語音提示與舒緩背景音樂。",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
