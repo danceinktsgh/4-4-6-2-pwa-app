@@ -1,0 +1,19 @@
+{
+  "name": "4-4-6-2 呼吸訓練",
+  "short_name": "呼吸訓練",
+  "description": "森林風格的 4-4-6-2 呼吸訓練 PWA。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#173a2f",
+  "theme_color": "#1f4f3d",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "pwa-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
