@@ -12,6 +12,8 @@
 | `ward_dashboard_design.md` | 內外科病房護理負荷儀表板構想（借用 OPC 六面向架構對應既有資料） |
 | `ccu_traffic_light_review.md` | CCU「護理負荷燈號」試行版評析與建議 |
 | `icu_traffic_light_expansion.md` | 護理負荷燈號由 CCU 拓展到外科、內科、感染隔離、燒傷加護（討論初稿） |
+| `auto_calculation_design.md` | 不增加填寫的自動計算設計（預設帶入、例外修改，分階段）|
+| `資料串接矩陣_給資訊室_v0.1.xlsx` | 每個燈號條件與病房指標對應的資料來源、判定邏輯、時間窗與自動化程度 |
 | `discussion_log.md` | 討論決議紀錄 |
 
 > 重要：本版的文獻與法規查核只經過搜尋摘要比對，**未讀過全文**；正式引用前須逐一核對原文（open_questions.md Q-S 系列）。
