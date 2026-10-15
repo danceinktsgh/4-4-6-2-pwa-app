@@ -11,6 +11,7 @@
 | `literature_TISS_vs_NAS.md` | TISS、APACHE 與 NAS 落差的文獻討論，以及對儀表板設計的意涵 |
 | `ward_dashboard_design.md` | 內外科病房護理負荷儀表板構想（借用 OPC 六面向架構對應既有資料） |
 | `ccu_traffic_light_review.md` | CCU「護理負荷燈號」試行版評析與建議 |
+| `icu_traffic_light_expansion.md` | 護理負荷燈號由 CCU 拓展到外科、內科、感染隔離、燒傷加護（討論初稿） |
 | `discussion_log.md` | 討論決議紀錄 |
 
 > 重要：本版的文獻與法規查核只經過搜尋摘要比對，**未讀過全文**；正式引用前須逐一核對原文（open_questions.md Q-S 系列）。
